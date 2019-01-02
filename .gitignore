@@ -7,6 +7,7 @@ lib/
 temp/
 bin/
 mvnw*
+.mvn/
 
 **/out/**
 
